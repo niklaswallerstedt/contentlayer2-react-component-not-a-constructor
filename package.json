@@ -1,0 +1,26 @@
+{
+  "name": "contentlayer2-react-component-not-a-constructor",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "next": "14.2.13",
+    "next-contentlayer2": "0.5.0",
+    "contentlayer2": "0.5.0",
+    "date-fns": "4.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/mdx": "^2.0.13"
+  }
+}
